@@ -195,7 +195,7 @@ const Footer = () => {
           }`}
         >
           <p className="text-gray-400 text-center text-sm mb-4 md:mb-0">
-            © 2025 InfiniteGreenSpace. All rights reserved.
+            © 2025 Infinite Green Space. All rights reserved.
           </p>
           <p className="flex gap-2 justify-center items-center ">
             <span>Made with</span>
