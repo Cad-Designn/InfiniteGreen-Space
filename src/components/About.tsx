@@ -8,7 +8,7 @@ const About = () => {
   const stats = [
     { icon: Users, number: "500+", label: "Happy Clients" },
     { icon: Leaf, number: "100+", label: "Gardens Created" },
-    { icon: Award, number: "2+", label: "Years Experience" },
+    { icon: Award, number: "5+", label: "Years Experience" },
     { icon: Heart, number: "100%", label: "Satisfaction" },
   ];
 
